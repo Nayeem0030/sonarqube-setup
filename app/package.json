@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:VikashChoudahry/sonarqube-setup.git"
+    "url": "github.com/Nayeem0030/sonarqube-setup/edit/master/app/package.json"
   },
   "scripts": {
     "test": "mocha --timeout 30000 ./test/**/*.js --exit",
